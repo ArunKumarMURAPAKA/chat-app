@@ -1,4 +1,4 @@
-Hosting link:=>https://reactchatapp-7f43a.web.app/
+Hosting link:=>https://chatawesome.netlify.app/#/
 
 
 
@@ -29,17 +29,6 @@ Send a message in the conversation
  use react-router.
  use react hooks ONLY.
  the redux data persistent such that after refresh, the messages and conversations are intact.
-
-![Screenshot (20)](https://github.com/kfaizan0496/react_chatApp/assets/113850768/42865713-cc17-4222-9537-63b1e889d7c3)
-
-
-
-
-![Screenshot (21)](https://github.com/kfaizan0496/react_chatApp/assets/113850768/7bcdaaa8-2678-4118-993d-9dabb67a4a0c)
-
-
-
-![Screenshot (22)](https://github.com/kfaizan0496/react_chatApp/assets/113850768/6f435585-3d62-48cb-8a68-dc429c90813d)
 
 # Getting Started with Create React App!
 
